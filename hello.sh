@@ -2,4 +2,5 @@
 echo "Hello World"
 sleep 2
 echo "Hello Marlyns & Plamedie"
+echo "Thenks"
 
